@@ -41,7 +41,7 @@ textarea{
 
 .card-task{
     background-color: rgb(235, 235, 235);
-    width: 50%;
+    width: 100%;
     text-align: center;
     display: flex;
     flex-direction: column;
